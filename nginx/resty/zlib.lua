@@ -5,7 +5,7 @@ local ffi_sizeof = ffi.sizeof
 local ffi_copy = ffi.copy
 
 local _M = {
-    _VERSION = '0.5.1',
+    _VERSION = '0.5.1-1',
 }
 
 ffi.cdef([[
